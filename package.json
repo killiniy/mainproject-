@@ -1,0 +1,16 @@
+{
+  "name": "kill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "momentjs": "^2.0.0"
+  }
+}
